@@ -1,0 +1,16 @@
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: cornsilk;
+}
+a:visited{
+    color: ghostwhite;
+}
+.origami{
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content: space-evenly;
+    background-color: peachpuff;
+}
